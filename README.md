@@ -8,4 +8,4 @@ You can also look for only unique or repeating numbers, & look for sequences in 
 
 This tool only shows up to 5000 results, so you may have to refine your search, or look it up in the [official OEIS site.](https://oeis.org)
 
-This tool was made to conveniently, precisely search OEIS sequences, & is not affiliated with the official OEIS company.
+This tool was made to conveniently, precisely search OEIS sequences, & is not affiliated with the official OEIS company. All data compiled as of 6 Mar 2025.
