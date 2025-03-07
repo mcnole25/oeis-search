@@ -7,3 +7,5 @@ Searches are case-insensitive. You can also select through several categories us
 This tool may sometimes show too many results & freeze, so you may have to be more specific about your search.
 
 This tool was made to conveniently, precisely search OEIS sequences, & is not affiliated with the official OEIS company. All data compiled as of 7 Mar 2025.
+
+Tool link: https://htmlpreview.github.io/?https://raw.githubusercontent.com/mcnole25/oeis-search/refs/heads/master/oeis-search.html
