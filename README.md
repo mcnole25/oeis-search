@@ -1,4 +1,4 @@
-# OEIS Search
+# OEIS Enhanced Search
 
 An enhanced version of the OEIS search. You can only search through the first 30000 sequences (A000001 - A030000) for performance & relevance.
 
