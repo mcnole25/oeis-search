@@ -2,7 +2,7 @@
 
 An enhanced version of the OEIS search. You can only search through the first 40000 sequences (A000001 - A040000) for relevance.
 
-Searches are case-insensitive. You can also select through several categories using the "Select a category..." dropdown to easily find what you're looking for. You can also look for only unique or repeating numbers.
+Searches are case-insensitive. You can also select through several categories using the category dropdown to easily find what you're looking for. There are also filters such as unique entries or negative numbers.
 
 This tool may show too many results & slow down if your search is not specific enough.
 
