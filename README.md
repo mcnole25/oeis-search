@@ -8,4 +8,6 @@ This tool may show too many results & slow down if your search is not specific e
 
 This tool was made to conveniently, precisely search OEIS sequences, & is not affiliated with the official OEIS company. All data compiled as of 7 Mar 2025.
 
-Tool link: https://htmlpreview.github.io/?https://raw.githubusercontent.com/mcnole25/oeis-search/refs/heads/master/oeis-search.html
+IMPORTANT NOTE: The "Offset" feature makes a guess on what n value the sequence starts with, based on context for faster loading times. It is not 100% accurate.
+
+TOOL LINK: https://htmlpreview.github.io/?https://raw.githubusercontent.com/mcnole25/oeis-search/refs/heads/master/oeis-search.html
