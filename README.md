@@ -4,6 +4,6 @@ An enhanced version of the OEIS search. You can only search through the first 50
 
 Searches are case-insensitive & unordered by default. You can change this behavior in the Advanced Options. You can also select through several categories using the category dropdown to easily discover new sequences.
 
-This tool was made to conveniently, precisely search OEIS sequences, & is not affiliated with the official OEIS company. All data compiled as of 11 Mar 2025.
+This tool was made to conveniently, precisely search OEIS sequences, & is not affiliated with the official OEIS company. I do not own any of the OEIS company or data compiled. All data compiled as of 11 Mar 2025.
 
 Tool Link: https://htmlpreview.github.io/?https://raw.githubusercontent.com/mcnole25/oeis-search/refs/heads/master/oeis-search.html
